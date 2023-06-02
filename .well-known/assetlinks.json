@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.asrisaadet.eserler",
+      "sha256_cert_fingerprints": [
+        "17:BB:F6:84:E3:09:CF:D6:8E:5B:56:BA:F1:04:30:56:C1:49:2A:55:3D:BE:13:D8:71:BC:DE:C4:EC:B4:36:A0"
+      ]
+    }
+  }
+]
