@@ -10,5 +10,17 @@
         "17:BB:F6:84:E3:09:CF:D6:8E:5B:56:BA:F1:04:30:56:C1:49:2A:55:3D:BE:13:D8:71:BC:DE:C4:EC:B4:36:A0"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.asrisaadet.eserler.debug",
+      "sha256_cert_fingerprints": [
+        "27:D7:B2:4A:77:2D:30:5E:B6:72:0F:F3:7D:D7:9E:F7:A8:8C:7D:1A:FF:C1:44:D2:18:CF:8F:C8:86:2E:2D:C1"
+      ]
+    }
   }
 ]
