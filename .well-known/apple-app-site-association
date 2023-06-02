@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "32NYT54HZY.com.asrisaadet.eserler",
+                "paths": [ "/apps/eserler" ]
+            },
+            {
+                "appID": "32NYT54HZY.com.asrisaadet.eserler.debug",
+                "paths": [ "/apps/eserler" ]
+            }
+        ]
+    }
+}
