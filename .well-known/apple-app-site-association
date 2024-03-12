@@ -3,11 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "32NYT54HZY.com.asrisaadet.eserler",
+                "appID": "FV45DQBT7J.com.asrisaadet.eserler",
                 "paths": [ "/apps/eserler" ]
             },
             {
-                "appID": "32NYT54HZY.com.asrisaadet.eserler.debug",
+                "appID": "FV45DQBT7J.com.asrisaadet.eserler.debug",
                 "paths": [ "/apps/eserler" ]
             }
         ]
